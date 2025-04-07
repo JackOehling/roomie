@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBa07pHiVNRXyQvVkpIa4ZAK1lsAMtWJjc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>665202601684</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jackOehling.roomie</string>
+	<key>PROJECT_ID</key>
+	<string>roomie-c497b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>roomie-c497b.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:665202601684:ios:2f381d868ad5b929d29541</string>
+</dict>
+</plist>
